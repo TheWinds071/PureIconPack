@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.3",
+  "latestVersionCode": 20250410,
+  "disableRequest": {
+    "below": 1,
+    "on": "20250410"
+  },
+  "url": "https://github.com/zixpo/candybar",
+  "releaseNotes": [
+    "更新了一些图标",
+    "增加检查更新功能"
+  ]
+}
