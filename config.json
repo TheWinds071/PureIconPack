@@ -1,10 +1,6 @@
 {
   "latestVersion": "1.4",
   "latestVersionCode": 20250420,
-  "disableRequest": {
-    "below": 0.1,
-    "on": "20250400"
-  },
   "url": "https://github.com/TheWinds071/PureIconPack",
   "releaseNotes": [
     "更新了一些图标",
