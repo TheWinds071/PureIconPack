@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.3",
-  "latestVersionCode": 20250410,
+  "latestVersion": "1.4",
+  "latestVersionCode": 20250411,
   "disableRequest": {
     "below": 1,
     "on": "20250410"
   },
-  "url": "https://github.com/zixpo/candybar",
+  "url": "https://github.com/TheWinds071/PureIconPack",
   "releaseNotes": [
     "更新了一些图标",
     "增加检查更新功能"
