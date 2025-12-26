@@ -2,8 +2,8 @@
   {
     "name": "Bing Daily Wallpaper",
     "author": "Bing",
-    "url": "https://bing.img.run/m.php",
-    "thumb": "https://bing.img.run/m.php",
+    "url": "https://www.yumus.cn/api/?brand=bing&ua=m",
+    "thumb": "https://www.yumus.cn/api/?brand=bing&ua=m",
     "category": "Daily"
   },
   {
