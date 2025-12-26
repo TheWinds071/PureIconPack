@@ -2,8 +2,15 @@
   {
     "name": "Bing Daily Wallpaper",
     "author": "Bing",
-    "url": "https://bing.img.run/m.php",
-    "thumb": "https://bing.img.run/m.php",
+    "url": "https://api.bimg.cc/today?w=1080&h=1920&mkt=zh-CN",
+    "thumb": "https://api.bimg.cc/today?w=1080&h=1920&mkt=zh-CN",
     "category": "Daily"
+  },
+  {
+    "name": "Bing Random Wallpaper",
+    "author": "Bing",
+    "url": "https://api.bimg.cc/random?w=1080&h=1920&mkt=zh-CN",
+    "thumb": "https://api.bimg.cc/random?w=1080&h=1920&mkt=zh-CN",
+    "category": "Random"
   }
 ]
