@@ -1,13 +1,8 @@
 {
-  "latestVersion": "1.4",
-  "latestVersionCode": 20250420,
-  "disableRequest": {
-    "below": 10,
-    "on": "40 20 353"
-  },
-  "url": "https://github.com/TheWinds071/PureIconPack",
-  "releaseNotes": [
-    "更新了一些图标",
-    "增加检查更新功能"
-  ]
+  "version": {
+    "versionCode": 20251226,
+    "versionName": "1.7",
+    "changelog": "1. 新增随机 Bing 壁纸功能\n2. 添加一些图标",
+    "link": "https://github.com/TheWinds071/PureIconPack/releases/tag/v1.5"
+  }
 }
