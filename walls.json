@@ -2,8 +2,8 @@
   {
     "name": "Bing Daily Wallpaper",
     "author": "Bing",
-    "url": "https://bing.img.run/rand_m.php",
-    "thumb": "https://bing.img.run/rand_m.php",
+    "url": "https://bing.img.run/m.php",
+    "thumb": "https://bing.img.run/m.php",
     "category": "Daily"
   }
 ]
